@@ -599,7 +599,7 @@ const RamanaPadamCombined = () => {
                 <div>
                   <h3 className="font-semibold text-lg mb-2 text-foreground">Phone</h3>
                   <a href="tel:09943177729" className="text-muted-foreground hover:text-primary transition-colors">
-                    09361737316
+                    9943177729,9345477713
                   </a>
                 </div>
               </div>
